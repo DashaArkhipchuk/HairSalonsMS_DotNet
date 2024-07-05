@@ -1,0 +1,629 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WinForms\\DotNetCoursework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0234D4-390D-43E5-95ED-11BB3BA55A19}|DotNetCoursework.Infrastructure\\DotNetCoursework.Infrastructure.csproj|d:\\winforms\\dotnetcoursework\\dotnetcoursework.infrastructure\\dal\\salonsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0234D4-390D-43E5-95ED-11BB3BA55A19}|DotNetCoursework.Infrastructure\\DotNetCoursework.Infrastructure.csproj|solutionrelative:dotnetcoursework.infrastructure\\dal\\salonsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0234D4-390D-43E5-95ED-11BB3BA55A19}|DotNetCoursework.Infrastructure\\DotNetCoursework.Infrastructure.csproj|d:\\winforms\\dotnetcoursework\\dotnetcoursework.infrastructure\\services\\scheduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0234D4-390D-43E5-95ED-11BB3BA55A19}|DotNetCoursework.Infrastructure\\DotNetCoursework.Infrastructure.csproj|solutionrelative:dotnetcoursework.infrastructure\\services\\scheduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0234D4-390D-43E5-95ED-11BB3BA55A19}|DotNetCoursework.Infrastructure\\DotNetCoursework.Infrastructure.csproj|d:\\winforms\\dotnetcoursework\\dotnetcoursework.infrastructure\\services\\servicesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0234D4-390D-43E5-95ED-11BB3BA55A19}|DotNetCoursework.Infrastructure\\DotNetCoursework.Infrastructure.csproj|solutionrelative:dotnetcoursework.infrastructure\\services\\servicesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16A0DDD-2530-4A2C-B797-86819A8EC7CB}|DotNetCoursework.Domain\\DotNetCoursework.Domain.csproj|d:\\winforms\\dotnetcoursework\\dotnetcoursework.domain\\price.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16A0DDD-2530-4A2C-B797-86819A8EC7CB}|DotNetCoursework.Domain\\DotNetCoursework.Domain.csproj|solutionrelative:dotnetcoursework.domain\\price.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0234D4-390D-43E5-95ED-11BB3BA55A19}|DotNetCoursework.Infrastructure\\DotNetCoursework.Infrastructure.csproj|d:\\winforms\\dotnetcoursework\\dotnetcoursework.infrastructure\\services\\stylistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0234D4-390D-43E5-95ED-11BB3BA55A19}|DotNetCoursework.Infrastructure\\DotNetCoursework.Infrastructure.csproj|solutionrelative:dotnetcoursework.infrastructure\\services\\stylistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D986E2F-9BB7-4D4F-A663-5BBBD6A6F424}|DotNetCoursework.View\\DotNetCoursework.View.csproj|d:\\winforms\\dotnetcoursework\\dotnetcoursework.view\\addappointmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D986E2F-9BB7-4D4F-A663-5BBBD6A6F424}|DotNetCoursework.View\\DotNetCoursework.View.csproj|solutionrelative:dotnetcoursework.view\\addappointmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D986E2F-9BB7-4D4F-A663-5BBBD6A6F424}|DotNetCoursework.View\\DotNetCoursework.View.csproj|d:\\winforms\\dotnetcoursework\\dotnetcoursework.view\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D986E2F-9BB7-4D4F-A663-5BBBD6A6F424}|DotNetCoursework.View\\DotNetCoursework.View.csproj|solutionrelative:dotnetcoursework.view\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16A0DDD-2530-4A2C-B797-86819A8EC7CB}|DotNetCoursework.Domain\\DotNetCoursework.Domain.csproj|d:\\winforms\\dotnetcoursework\\dotnetcoursework.domain\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16A0DDD-2530-4A2C-B797-86819A8EC7CB}|DotNetCoursework.Domain\\DotNetCoursework.Domain.csproj|solutionrelative:dotnetcoursework.domain\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0234D4-390D-43E5-95ED-11BB3BA55A19}|DotNetCoursework.Infrastructure\\DotNetCoursework.Infrastructure.csproj|d:\\winforms\\dotnetcoursework\\dotnetcoursework.infrastructure\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0234D4-390D-43E5-95ED-11BB3BA55A19}|DotNetCoursework.Infrastructure\\DotNetCoursework.Infrastructure.csproj|solutionrelative:dotnetcoursework.infrastructure\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0234D4-390D-43E5-95ED-11BB3BA55A19}|DotNetCoursework.Infrastructure\\DotNetCoursework.Infrastructure.csproj|d:\\winforms\\dotnetcoursework\\dotnetcoursework.infrastructure\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0234D4-390D-43E5-95ED-11BB3BA55A19}|DotNetCoursework.Infrastructure\\DotNetCoursework.Infrastructure.csproj|solutionrelative:dotnetcoursework.infrastructure\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D986E2F-9BB7-4D4F-A663-5BBBD6A6F424}|DotNetCoursework.View\\DotNetCoursework.View.csproj|d:\\winforms\\dotnetcoursework\\dotnetcoursework.view\\addscheduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D986E2F-9BB7-4D4F-A663-5BBBD6A6F424}|DotNetCoursework.View\\DotNetCoursework.View.csproj|solutionrelative:dotnetcoursework.view\\addscheduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D986E2F-9BB7-4D4F-A663-5BBBD6A6F424}|DotNetCoursework.View\\DotNetCoursework.View.csproj|D:\\WinForms\\DotNetCoursework\\dotnetcoursework.view\\addsalonform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D986E2F-9BB7-4D4F-A663-5BBBD6A6F424}|DotNetCoursework.View\\DotNetCoursework.View.csproj|solutionrelative:dotnetcoursework.view\\addsalonform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0234D4-390D-43E5-95ED-11BB3BA55A19}|DotNetCoursework.Infrastructure\\DotNetCoursework.Infrastructure.csproj|d:\\winforms\\dotnetcoursework\\dotnetcoursework.infrastructure\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0234D4-390D-43E5-95ED-11BB3BA55A19}|DotNetCoursework.Infrastructure\\DotNetCoursework.Infrastructure.csproj|solutionrelative:dotnetcoursework.infrastructure\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0234D4-390D-43E5-95ED-11BB3BA55A19}|DotNetCoursework.Infrastructure\\DotNetCoursework.Infrastructure.csproj|d:\\winforms\\dotnetcoursework\\dotnetcoursework.infrastructure\\services\\salonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0234D4-390D-43E5-95ED-11BB3BA55A19}|DotNetCoursework.Infrastructure\\DotNetCoursework.Infrastructure.csproj|solutionrelative:dotnetcoursework.infrastructure\\services\\salonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D986E2F-9BB7-4D4F-A663-5BBBD6A6F424}|DotNetCoursework.View\\DotNetCoursework.View.csproj|d:\\winforms\\dotnetcoursework\\dotnetcoursework.view\\addsalonform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D986E2F-9BB7-4D4F-A663-5BBBD6A6F424}|DotNetCoursework.View\\DotNetCoursework.View.csproj|solutionrelative:dotnetcoursework.view\\addsalonform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D986E2F-9BB7-4D4F-A663-5BBBD6A6F424}|DotNetCoursework.View\\DotNetCoursework.View.csproj|d:\\winforms\\dotnetcoursework\\dotnetcoursework.view\\serialization\\serialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D986E2F-9BB7-4D4F-A663-5BBBD6A6F424}|DotNetCoursework.View\\DotNetCoursework.View.csproj|solutionrelative:dotnetcoursework.view\\serialization\\serialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D986E2F-9BB7-4D4F-A663-5BBBD6A6F424}|DotNetCoursework.View\\DotNetCoursework.View.csproj|d:\\winforms\\dotnetcoursework\\dotnetcoursework.view\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D986E2F-9BB7-4D4F-A663-5BBBD6A6F424}|DotNetCoursework.View\\DotNetCoursework.View.csproj|solutionrelative:dotnetcoursework.view\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D986E2F-9BB7-4D4F-A663-5BBBD6A6F424}|DotNetCoursework.View\\DotNetCoursework.View.csproj|D:\\WinForms\\DotNetCoursework\\dotnetcoursework.view\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D986E2F-9BB7-4D4F-A663-5BBBD6A6F424}|DotNetCoursework.View\\DotNetCoursework.View.csproj|solutionrelative:dotnetcoursework.view\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D986E2F-9BB7-4D4F-A663-5BBBD6A6F424}|DotNetCoursework.View\\DotNetCoursework.View.csproj|d:\\winforms\\dotnetcoursework\\dotnetcoursework.view\\serialization\\formdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D986E2F-9BB7-4D4F-A663-5BBBD6A6F424}|DotNetCoursework.View\\DotNetCoursework.View.csproj|solutionrelative:dotnetcoursework.view\\serialization\\formdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D986E2F-9BB7-4D4F-A663-5BBBD6A6F424}|DotNetCoursework.View\\DotNetCoursework.View.csproj|d:\\winforms\\dotnetcoursework\\dotnetcoursework.view\\dotnetcoursework.view.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5D986E2F-9BB7-4D4F-A663-5BBBD6A6F424}|DotNetCoursework.View\\DotNetCoursework.View.csproj|solutionrelative:dotnetcoursework.view\\dotnetcoursework.view.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D986E2F-9BB7-4D4F-A663-5BBBD6A6F424}|DotNetCoursework.View\\DotNetCoursework.View.csproj|D:\\WinForms\\DotNetCoursework\\dotnetcoursework.view\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D986E2F-9BB7-4D4F-A663-5BBBD6A6F424}|DotNetCoursework.View\\DotNetCoursework.View.csproj|solutionrelative:dotnetcoursework.view\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D986E2F-9BB7-4D4F-A663-5BBBD6A6F424}|DotNetCoursework.View\\DotNetCoursework.View.csproj|d:\\winforms\\dotnetcoursework\\dotnetcoursework.view\\validation\\validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D986E2F-9BB7-4D4F-A663-5BBBD6A6F424}|DotNetCoursework.View\\DotNetCoursework.View.csproj|solutionrelative:dotnetcoursework.view\\validation\\validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D986E2F-9BB7-4D4F-A663-5BBBD6A6F424}|DotNetCoursework.View\\DotNetCoursework.View.csproj|d:\\winforms\\dotnetcoursework\\dotnetcoursework.view\\addaddressform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D986E2F-9BB7-4D4F-A663-5BBBD6A6F424}|DotNetCoursework.View\\DotNetCoursework.View.csproj|solutionrelative:dotnetcoursework.view\\addaddressform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D986E2F-9BB7-4D4F-A663-5BBBD6A6F424}|DotNetCoursework.View\\DotNetCoursework.View.csproj|d:\\winforms\\dotnetcoursework\\dotnetcoursework.view\\validation\\validatingmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D986E2F-9BB7-4D4F-A663-5BBBD6A6F424}|DotNetCoursework.View\\DotNetCoursework.View.csproj|solutionrelative:dotnetcoursework.view\\validation\\validatingmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D986E2F-9BB7-4D4F-A663-5BBBD6A6F424}|DotNetCoursework.View\\DotNetCoursework.View.csproj|d:\\winforms\\dotnetcoursework\\dotnetcoursework.view\\registerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D986E2F-9BB7-4D4F-A663-5BBBD6A6F424}|DotNetCoursework.View\\DotNetCoursework.View.csproj|solutionrelative:dotnetcoursework.view\\registerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16A0DDD-2530-4A2C-B797-86819A8EC7CB}|DotNetCoursework.Domain\\DotNetCoursework.Domain.csproj|d:\\winforms\\dotnetcoursework\\dotnetcoursework.domain\\salon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16A0DDD-2530-4A2C-B797-86819A8EC7CB}|DotNetCoursework.Domain\\DotNetCoursework.Domain.csproj|solutionrelative:dotnetcoursework.domain\\salon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16A0DDD-2530-4A2C-B797-86819A8EC7CB}|DotNetCoursework.Domain\\DotNetCoursework.Domain.csproj|d:\\winforms\\dotnetcoursework\\dotnetcoursework.domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16A0DDD-2530-4A2C-B797-86819A8EC7CB}|DotNetCoursework.Domain\\DotNetCoursework.Domain.csproj|solutionrelative:dotnetcoursework.domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0234D4-390D-43E5-95ED-11BB3BA55A19}|DotNetCoursework.Infrastructure\\DotNetCoursework.Infrastructure.csproj|d:\\winforms\\dotnetcoursework\\dotnetcoursework.infrastructure\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0234D4-390D-43E5-95ED-11BB3BA55A19}|DotNetCoursework.Infrastructure\\DotNetCoursework.Infrastructure.csproj|solutionrelative:dotnetcoursework.infrastructure\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16A0DDD-2530-4A2C-B797-86819A8EC7CB}|DotNetCoursework.Domain\\DotNetCoursework.Domain.csproj|d:\\winforms\\dotnetcoursework\\dotnetcoursework.domain\\accesslevels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16A0DDD-2530-4A2C-B797-86819A8EC7CB}|DotNetCoursework.Domain\\DotNetCoursework.Domain.csproj|solutionrelative:dotnetcoursework.domain\\accesslevels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D986E2F-9BB7-4D4F-A663-5BBBD6A6F424}|DotNetCoursework.View\\DotNetCoursework.View.csproj|D:\\WinForms\\DotNetCoursework\\dotnetcoursework.view\\addscheduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D986E2F-9BB7-4D4F-A663-5BBBD6A6F424}|DotNetCoursework.View\\DotNetCoursework.View.csproj|solutionrelative:dotnetcoursework.view\\addscheduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D986E2F-9BB7-4D4F-A663-5BBBD6A6F424}|DotNetCoursework.View\\DotNetCoursework.View.csproj|d:\\winforms\\dotnetcoursework\\dotnetcoursework.view\\addappointmentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D986E2F-9BB7-4D4F-A663-5BBBD6A6F424}|DotNetCoursework.View\\DotNetCoursework.View.csproj|solutionrelative:dotnetcoursework.view\\addappointmentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16A0DDD-2530-4A2C-B797-86819A8EC7CB}|DotNetCoursework.Domain\\DotNetCoursework.Domain.csproj|d:\\winforms\\dotnetcoursework\\dotnetcoursework.domain\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16A0DDD-2530-4A2C-B797-86819A8EC7CB}|DotNetCoursework.Domain\\DotNetCoursework.Domain.csproj|solutionrelative:dotnetcoursework.domain\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D986E2F-9BB7-4D4F-A663-5BBBD6A6F424}|DotNetCoursework.View\\DotNetCoursework.View.csproj|D:\\WinForms\\DotNetCoursework\\dotnetcoursework.view\\addaddressform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D986E2F-9BB7-4D4F-A663-5BBBD6A6F424}|DotNetCoursework.View\\DotNetCoursework.View.csproj|solutionrelative:dotnetcoursework.view\\addaddressform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D986E2F-9BB7-4D4F-A663-5BBBD6A6F424}|DotNetCoursework.View\\DotNetCoursework.View.csproj|d:\\winforms\\dotnetcoursework\\dotnetcoursework.view\\addaddressform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D986E2F-9BB7-4D4F-A663-5BBBD6A6F424}|DotNetCoursework.View\\DotNetCoursework.View.csproj|solutionrelative:dotnetcoursework.view\\addaddressform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D986E2F-9BB7-4D4F-A663-5BBBD6A6F424}|DotNetCoursework.View\\DotNetCoursework.View.csproj|d:\\winforms\\dotnetcoursework\\dotnetcoursework.view\\addsalonform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D986E2F-9BB7-4D4F-A663-5BBBD6A6F424}|DotNetCoursework.View\\DotNetCoursework.View.csproj|solutionrelative:dotnetcoursework.view\\addsalonform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0234D4-390D-43E5-95ED-11BB3BA55A19}|DotNetCoursework.Infrastructure\\DotNetCoursework.Infrastructure.csproj|d:\\winforms\\dotnetcoursework\\dotnetcoursework.infrastructure\\dotnetcoursework.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DB0234D4-390D-43E5-95ED-11BB3BA55A19}|DotNetCoursework.Infrastructure\\DotNetCoursework.Infrastructure.csproj|solutionrelative:dotnetcoursework.infrastructure\\dotnetcoursework.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16A0DDD-2530-4A2C-B797-86819A8EC7CB}|DotNetCoursework.Domain\\DotNetCoursework.Domain.csproj|d:\\winforms\\dotnetcoursework\\dotnetcoursework.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16A0DDD-2530-4A2C-B797-86819A8EC7CB}|DotNetCoursework.Domain\\DotNetCoursework.Domain.csproj|solutionrelative:dotnetcoursework.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScheduleService.cs",
+              "DocumentMoniker": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.Infrastructure\\Services\\ScheduleService.cs",
+              "RelativeDocumentMoniker": "DotNetCoursework.Infrastructure\\Services\\ScheduleService.cs",
+              "ToolTip": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.Infrastructure\\Services\\ScheduleService.cs",
+              "RelativeToolTip": "DotNetCoursework.Infrastructure\\Services\\ScheduleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T14:59:00.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.View\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "DotNetCoursework.View\\RegisterForm.cs",
+              "ToolTip": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.View\\RegisterForm.cs",
+              "RelativeToolTip": "DotNetCoursework.View\\RegisterForm.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T14:38:16.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SalonsDbContext.cs",
+              "DocumentMoniker": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.Infrastructure\\DAL\\SalonsDbContext.cs",
+              "RelativeDocumentMoniker": "DotNetCoursework.Infrastructure\\DAL\\SalonsDbContext.cs",
+              "ToolTip": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.Infrastructure\\DAL\\SalonsDbContext.cs",
+              "RelativeToolTip": "DotNetCoursework.Infrastructure\\DAL\\SalonsDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALcBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T15:28:38.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddAppointmentForm.cs",
+              "DocumentMoniker": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.View\\AddAppointmentForm.cs",
+              "RelativeDocumentMoniker": "DotNetCoursework.View\\AddAppointmentForm.cs",
+              "ToolTip": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.View\\AddAppointmentForm.cs",
+              "RelativeToolTip": "DotNetCoursework.View\\AddAppointmentForm.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAADwv2YAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T15:55:18.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Price.cs",
+              "DocumentMoniker": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.Domain\\Price.cs",
+              "RelativeDocumentMoniker": "DotNetCoursework.Domain\\Price.cs",
+              "ToolTip": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.Domain\\Price.cs",
+              "RelativeToolTip": "DotNetCoursework.Domain\\Price.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T14:07:47.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServicesService.cs",
+              "DocumentMoniker": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.Infrastructure\\Services\\ServicesService.cs",
+              "RelativeDocumentMoniker": "DotNetCoursework.Infrastructure\\Services\\ServicesService.cs",
+              "ToolTip": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.Infrastructure\\Services\\ServicesService.cs",
+              "RelativeToolTip": "DotNetCoursework.Infrastructure\\Services\\ServicesService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T15:51:54.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.Domain\\Customer.cs",
+              "RelativeDocumentMoniker": "DotNetCoursework.Domain\\Customer.cs",
+              "ToolTip": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.Domain\\Customer.cs",
+              "RelativeToolTip": "DotNetCoursework.Domain\\Customer.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAAB4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T13:25:31.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppointmentService.cs",
+              "DocumentMoniker": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.Infrastructure\\Services\\AppointmentService.cs",
+              "RelativeDocumentMoniker": "DotNetCoursework.Infrastructure\\Services\\AppointmentService.cs",
+              "ToolTip": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.Infrastructure\\Services\\AppointmentService.cs",
+              "RelativeToolTip": "DotNetCoursework.Infrastructure\\Services\\AppointmentService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAADwvyAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:45:12.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StylistService.cs",
+              "DocumentMoniker": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.Infrastructure\\Services\\StylistService.cs",
+              "RelativeDocumentMoniker": "DotNetCoursework.Infrastructure\\Services\\StylistService.cs",
+              "ToolTip": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.Infrastructure\\Services\\StylistService.cs",
+              "RelativeToolTip": "DotNetCoursework.Infrastructure\\Services\\StylistService.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAADAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T16:56:13.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.Infrastructure\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "DotNetCoursework.Infrastructure\\Services\\UserService.cs",
+              "ToolTip": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.Infrastructure\\Services\\UserService.cs",
+              "RelativeToolTip": "DotNetCoursework.Infrastructure\\Services\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T14:40:14.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddScheduleForm.cs",
+              "DocumentMoniker": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.View\\AddScheduleForm.cs",
+              "RelativeDocumentMoniker": "DotNetCoursework.View\\AddScheduleForm.cs",
+              "ToolTip": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.View\\AddScheduleForm.cs",
+              "RelativeToolTip": "DotNetCoursework.View\\AddScheduleForm.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAAAFcAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T16:08:59.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddSalonForm.cs [Design]",
+              "DocumentMoniker": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.View\\AddSalonForm.cs",
+              "RelativeDocumentMoniker": "DotNetCoursework.View\\AddSalonForm.cs",
+              "ToolTip": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.View\\AddSalonForm.cs [Design]",
+              "RelativeToolTip": "DotNetCoursework.View\\AddSalonForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T12:50:39.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.Infrastructure\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "DotNetCoursework.Infrastructure\\Services\\CustomerService.cs",
+              "ToolTip": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.Infrastructure\\Services\\CustomerService.cs",
+              "RelativeToolTip": "DotNetCoursework.Infrastructure\\Services\\CustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwA8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T14:34:49.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddSalonForm.cs",
+              "DocumentMoniker": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.View\\AddSalonForm.cs",
+              "RelativeDocumentMoniker": "DotNetCoursework.View\\AddSalonForm.cs",
+              "ToolTip": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.View\\AddSalonForm.cs",
+              "RelativeToolTip": "DotNetCoursework.View\\AddSalonForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:10:05.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SalonService.cs",
+              "DocumentMoniker": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.Infrastructure\\Services\\SalonService.cs",
+              "RelativeDocumentMoniker": "DotNetCoursework.Infrastructure\\Services\\SalonService.cs",
+              "ToolTip": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.Infrastructure\\Services\\SalonService.cs",
+              "RelativeToolTip": "DotNetCoursework.Infrastructure\\Services\\SalonService.cs",
+              "ViewState": "AQIAAKkAAAAAAAAAAAAAALsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T11:07:38.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Serialization.cs",
+              "DocumentMoniker": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.View\\Serialization\\Serialization.cs",
+              "RelativeDocumentMoniker": "DotNetCoursework.View\\Serialization\\Serialization.cs",
+              "ToolTip": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.View\\Serialization\\Serialization.cs",
+              "RelativeToolTip": "DotNetCoursework.View\\Serialization\\Serialization.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABsAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T16:02:34.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormData.cs",
+              "DocumentMoniker": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.View\\Serialization\\FormData.cs",
+              "RelativeDocumentMoniker": "DotNetCoursework.View\\Serialization\\FormData.cs",
+              "ToolTip": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.View\\Serialization\\FormData.cs",
+              "RelativeToolTip": "DotNetCoursework.View\\Serialization\\FormData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T16:28:27.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.View\\LoginForm.cs",
+              "RelativeDocumentMoniker": "DotNetCoursework.View\\LoginForm.cs",
+              "ToolTip": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.View\\LoginForm.cs",
+              "RelativeToolTip": "DotNetCoursework.View\\LoginForm.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T13:29:38.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.View\\LoginForm.cs",
+              "RelativeDocumentMoniker": "DotNetCoursework.View\\LoginForm.cs",
+              "ToolTip": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.View\\LoginForm.cs [Design]",
+              "RelativeToolTip": "DotNetCoursework.View\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T14:54:54.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Validation.cs",
+              "DocumentMoniker": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.View\\Validation\\Validation.cs",
+              "RelativeDocumentMoniker": "DotNetCoursework.View\\Validation\\Validation.cs",
+              "ToolTip": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.View\\Validation\\Validation.cs",
+              "RelativeToolTip": "DotNetCoursework.View\\Validation\\Validation.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T11:27:15.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DotNetCoursework.View.csproj",
+              "DocumentMoniker": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.View\\DotNetCoursework.View.csproj",
+              "RelativeDocumentMoniker": "DotNetCoursework.View\\DotNetCoursework.View.csproj",
+              "ToolTip": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.View\\DotNetCoursework.View.csproj",
+              "RelativeToolTip": "DotNetCoursework.View\\DotNetCoursework.View.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-19T11:26:41.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.View\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "DotNetCoursework.View\\RegisterForm.cs",
+              "ToolTip": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.View\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "DotNetCoursework.View\\RegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T15:10:47.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AddAddressForm.cs",
+              "DocumentMoniker": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.View\\AddAddressForm.cs",
+              "RelativeDocumentMoniker": "DotNetCoursework.View\\AddAddressForm.cs",
+              "ToolTip": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.View\\AddAddressForm.cs",
+              "RelativeToolTip": "DotNetCoursework.View\\AddAddressForm.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T12:40:10.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ValidatingMethods.cs",
+              "DocumentMoniker": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.View\\Validation\\ValidatingMethods.cs",
+              "RelativeDocumentMoniker": "DotNetCoursework.View\\Validation\\ValidatingMethods.cs",
+              "ToolTip": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.View\\Validation\\ValidatingMethods.cs",
+              "RelativeToolTip": "DotNetCoursework.View\\Validation\\ValidatingMethods.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAACwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T14:31:49.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RegisterForm.Designer.cs",
+              "DocumentMoniker": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.View\\RegisterForm.Designer.cs",
+              "RelativeDocumentMoniker": "DotNetCoursework.View\\RegisterForm.Designer.cs",
+              "ToolTip": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.View\\RegisterForm.Designer.cs",
+              "RelativeToolTip": "DotNetCoursework.View\\RegisterForm.Designer.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAIBJwFcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:58:46.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Salon.cs",
+              "DocumentMoniker": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.Domain\\Salon.cs",
+              "RelativeDocumentMoniker": "DotNetCoursework.Domain\\Salon.cs",
+              "ToolTip": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.Domain\\Salon.cs",
+              "RelativeToolTip": "DotNetCoursework.Domain\\Salon.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAADwvy0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:37:22.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.Domain\\User.cs",
+              "RelativeDocumentMoniker": "DotNetCoursework.Domain\\User.cs",
+              "ToolTip": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.Domain\\User.cs",
+              "RelativeToolTip": "DotNetCoursework.Domain\\User.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T13:41:27.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.Infrastructure\\Services\\RoleService.cs",
+              "RelativeDocumentMoniker": "DotNetCoursework.Infrastructure\\Services\\RoleService.cs",
+              "ToolTip": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.Infrastructure\\Services\\RoleService.cs",
+              "RelativeToolTip": "DotNetCoursework.Infrastructure\\Services\\RoleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T13:47:29.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AccessLevels.cs",
+              "DocumentMoniker": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.Domain\\AccessLevels.cs",
+              "RelativeDocumentMoniker": "DotNetCoursework.Domain\\AccessLevels.cs",
+              "ToolTip": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.Domain\\AccessLevels.cs",
+              "RelativeToolTip": "DotNetCoursework.Domain\\AccessLevels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T13:52:28.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AddScheduleForm.cs [Design]",
+              "DocumentMoniker": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.View\\AddScheduleForm.cs",
+              "RelativeDocumentMoniker": "DotNetCoursework.View\\AddScheduleForm.cs",
+              "ToolTip": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.View\\AddScheduleForm.cs [Design]",
+              "RelativeToolTip": "DotNetCoursework.View\\AddScheduleForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:58:23.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AddAppointmentForm.Designer.cs",
+              "DocumentMoniker": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.View\\AddAppointmentForm.Designer.cs",
+              "RelativeDocumentMoniker": "DotNetCoursework.View\\AddAppointmentForm.Designer.cs",
+              "ToolTip": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.View\\AddAppointmentForm.Designer.cs",
+              "RelativeToolTip": "DotNetCoursework.View\\AddAppointmentForm.Designer.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAIBJwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:47:38.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Schedule.cs",
+              "DocumentMoniker": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.Domain\\Schedule.cs",
+              "RelativeDocumentMoniker": "DotNetCoursework.Domain\\Schedule.cs",
+              "ToolTip": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.Domain\\Schedule.cs",
+              "RelativeToolTip": "DotNetCoursework.Domain\\Schedule.cs",
+              "ViewState": "AQIAABgAAABAMzMzM7MiwCMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T17:18:49.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AddAddressForm.cs [Design]",
+              "DocumentMoniker": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.View\\AddAddressForm.cs",
+              "RelativeDocumentMoniker": "DotNetCoursework.View\\AddAddressForm.cs",
+              "ToolTip": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.View\\AddAddressForm.cs [Design]",
+              "RelativeToolTip": "DotNetCoursework.View\\AddAddressForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:13:46.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AddAddressForm.Designer.cs",
+              "DocumentMoniker": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.View\\AddAddressForm.Designer.cs",
+              "RelativeDocumentMoniker": "DotNetCoursework.View\\AddAddressForm.Designer.cs",
+              "ToolTip": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.View\\AddAddressForm.Designer.cs",
+              "RelativeToolTip": "DotNetCoursework.View\\AddAddressForm.Designer.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAIBZwEcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T12:51:01.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AddSalonForm.Designer.cs",
+              "DocumentMoniker": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.View\\AddSalonForm.Designer.cs",
+              "RelativeDocumentMoniker": "DotNetCoursework.View\\AddSalonForm.Designer.cs",
+              "ToolTip": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.View\\AddSalonForm.Designer.cs",
+              "RelativeToolTip": "DotNetCoursework.View\\AddSalonForm.Designer.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAIBZwKAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T11:29:40.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DotNetCoursework.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.Infrastructure\\DotNetCoursework.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "DotNetCoursework.Infrastructure\\DotNetCoursework.Infrastructure.csproj",
+              "ToolTip": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.Infrastructure\\DotNetCoursework.Infrastructure.csproj",
+              "RelativeToolTip": "DotNetCoursework.Infrastructure\\DotNetCoursework.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-08T14:05:52.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "DotNetCoursework.Domain\\Class1.cs",
+              "ToolTip": "D:\\WinForms\\DotNetCoursework\\DotNetCoursework.Domain\\Class1.cs",
+              "RelativeToolTip": "DotNetCoursework.Domain\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T13:52:44.675Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

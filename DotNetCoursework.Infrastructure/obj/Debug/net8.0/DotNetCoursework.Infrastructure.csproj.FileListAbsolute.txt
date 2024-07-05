@@ -1,0 +1,15 @@
+D:\WinForms\DotNetCoursework\DotNetCoursework.Infrastructure\bin\Debug\net8.0\DotNetCoursework.Infrastructure.deps.json
+D:\WinForms\DotNetCoursework\DotNetCoursework.Infrastructure\bin\Debug\net8.0\DotNetCoursework.Infrastructure.dll
+D:\WinForms\DotNetCoursework\DotNetCoursework.Infrastructure\bin\Debug\net8.0\DotNetCoursework.Infrastructure.pdb
+D:\WinForms\DotNetCoursework\DotNetCoursework.Infrastructure\obj\Debug\net8.0\DotNetCoursework.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\WinForms\DotNetCoursework\DotNetCoursework.Infrastructure\obj\Debug\net8.0\DotNetCoursework.Infrastructure.AssemblyInfoInputs.cache
+D:\WinForms\DotNetCoursework\DotNetCoursework.Infrastructure\obj\Debug\net8.0\DotNetCoursework.Infrastructure.AssemblyInfo.cs
+D:\WinForms\DotNetCoursework\DotNetCoursework.Infrastructure\obj\Debug\net8.0\DotNetCoursework.Infrastructure.csproj.CoreCompileInputs.cache
+D:\WinForms\DotNetCoursework\DotNetCoursework.Infrastructure\obj\Debug\net8.0\DotNetCoursework.Infrastructure.dll
+D:\WinForms\DotNetCoursework\DotNetCoursework.Infrastructure\obj\Debug\net8.0\refint\DotNetCoursework.Infrastructure.dll
+D:\WinForms\DotNetCoursework\DotNetCoursework.Infrastructure\obj\Debug\net8.0\DotNetCoursework.Infrastructure.pdb
+D:\WinForms\DotNetCoursework\DotNetCoursework.Infrastructure\obj\Debug\net8.0\ref\DotNetCoursework.Infrastructure.dll
+D:\WinForms\DotNetCoursework\DotNetCoursework.Infrastructure\bin\Debug\net8.0\DotNetCoursework.Domain.dll
+D:\WinForms\DotNetCoursework\DotNetCoursework.Infrastructure\bin\Debug\net8.0\DotNetCoursework.Domain.pdb
+D:\WinForms\DotNetCoursework\DotNetCoursework.Infrastructure\obj\Debug\net8.0\DotNetCoursework.Infrastructure.csproj.AssemblyReference.cache
+D:\WinForms\DotNetCoursework\DotNetCoursework.Infrastructure\obj\Debug\net8.0\DotNetCo.D488B03C.Up2Date

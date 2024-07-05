@@ -1,0 +1,11 @@
+D:\WinForms\DotNetCoursework\DotNetCoursework.Domain\bin\Debug\net8.0\DotNetCoursework.Domain.deps.json
+D:\WinForms\DotNetCoursework\DotNetCoursework.Domain\bin\Debug\net8.0\DotNetCoursework.Domain.dll
+D:\WinForms\DotNetCoursework\DotNetCoursework.Domain\bin\Debug\net8.0\DotNetCoursework.Domain.pdb
+D:\WinForms\DotNetCoursework\DotNetCoursework.Domain\obj\Debug\net8.0\DotNetCoursework.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\WinForms\DotNetCoursework\DotNetCoursework.Domain\obj\Debug\net8.0\DotNetCoursework.Domain.AssemblyInfoInputs.cache
+D:\WinForms\DotNetCoursework\DotNetCoursework.Domain\obj\Debug\net8.0\DotNetCoursework.Domain.AssemblyInfo.cs
+D:\WinForms\DotNetCoursework\DotNetCoursework.Domain\obj\Debug\net8.0\DotNetCoursework.Domain.csproj.CoreCompileInputs.cache
+D:\WinForms\DotNetCoursework\DotNetCoursework.Domain\obj\Debug\net8.0\DotNetCoursework.Domain.dll
+D:\WinForms\DotNetCoursework\DotNetCoursework.Domain\obj\Debug\net8.0\refint\DotNetCoursework.Domain.dll
+D:\WinForms\DotNetCoursework\DotNetCoursework.Domain\obj\Debug\net8.0\DotNetCoursework.Domain.pdb
+D:\WinForms\DotNetCoursework\DotNetCoursework.Domain\obj\Debug\net8.0\ref\DotNetCoursework.Domain.dll
